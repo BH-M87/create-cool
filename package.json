@@ -1,6 +1,6 @@
 {
   "name": "create-cool",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Alias for cool-cli init, so you could use npm init cool.",
   "bin": "./bin/create-cool.js",
   "scripts": {
