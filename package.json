@@ -28,5 +28,15 @@
     "cross-spawn": "^6.0.5",
     "generator-cool": "^0.1.25",
     "yo": "^2.0.6"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^7.5.2",
+    "@commitlint/config-angular": "^7.5.0",
+    "commitizen": "^3.0.7"
+  },
+  "config": {
+    "commitizen": {
+      "path": "node_modules/cz-conventional-changelog"
+    }
   }
 }

@@ -4,4 +4,4 @@
 
 const runScript = require('../utils/runScript');
 
-runScript('cool-cli/bin/init', ['--skipupdate']);
+runScript('cool-cli/scripts/init', ['--skipupdate']);
