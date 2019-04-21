@@ -2,7 +2,7 @@
   "name": "create-cool",
   "version": "0.0.1",
   "description": "Alias for cool-cli init, so you could use npm init cool.",
-  "main": "bin/create-cool.js",
+  "bin": "./bin/create-cool.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
